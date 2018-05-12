@@ -1,0 +1,28 @@
+_repo: The-Development-of-the-European-Nations-1870-1914--5th-ed.-_14644
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rose, J. Holland (John Holland)
+    alias: Rose, John Holland
+    birthdate: 1855
+    deathdate: 1942
+    gutenberg_agent_id: '5451'
+    url: http://www.gutenberg.org/2009/agents/5451
+    wikipedia: http://en.wikipedia.org/wiki/John_Holland_Rose
+description: ''
+gutenberg_issued: '2005-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14644'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D'
+- !lcsh 'Europe -- History -- 1871-1918'
+title: The Development of the European Nations, 1870-1914 (5th ed.)
+url: http://www.gutenberg.org/ebooks/14644
